@@ -53,6 +53,4 @@ Then run with:
 
 == Watch the demo
 
-ifndef::env-github[]
 image:thumbnail.png[link=https://youtu.be/WDPx7abR328]
-endif::[]
