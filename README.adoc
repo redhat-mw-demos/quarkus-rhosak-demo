@@ -5,7 +5,7 @@ This project illustrates how you can interact with Red Hat OpenShift Streams for
 
 ## Creating a new Kafka instance on Red Hat OpenShift Streams
 
-Go to [cloud.redhat.com](cloud.redhat.com){target="_blank"} and log in with your Red Hat account. Create a new Kafka instance in *Application Services* menu then create a topic as well as service account. See more details about [Getting started with Red Hat OpenShift Streams for Apache Kafka](https://developers.redhat.com/articles/2021/07/07/getting-started-red-hat-openshift-streams-apache-kafka){target="_blank"}.
+Go to http://cloud.redhat.com[cloud.redhat.com^] and log in with your Red Hat account. Create a new Kafka instance in *Application Services* menu then create a topic as well as service account. See more details about https://developers.redhat.com/articles/2021/07/07/getting-started-red-hat-openshift-streams-apache-kafka[Getting started with Red Hat OpenShift Streams for Apache Kafka^]).
 
 ## Update configurations
 
@@ -51,5 +51,4 @@ Then run with:
 
 ## Watch the demo
 
-[![Developing Reactive Streams with Quarkus and Red Hat OpenShift Streams for Apache Kafka](images/thumbnail.png)](https://youtu.be/WDPx7abR328){target="_blank"}
-
+video::WDPx7abR328[youtube]
