@@ -51,5 +51,5 @@ Then run with:
 
 ## Watch the demo
 
-[![Developing Reactive Streams with Quarkus and Red Hat OpenShift Streams for Apache Kafka](images/thumbnail.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Developing Reactive Streams with Quarkus and Red Hat OpenShift Streams for Apache Kafka](images/thumbnail.png)](https://youtu.be/WDPx7abR328)
 
